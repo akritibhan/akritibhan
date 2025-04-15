@@ -5,7 +5,7 @@
 Email Me 👉 ✉️ **akriti.bhan1812@gmail.com** For Collaboration/Project.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akritibhan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AkritiBhan) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Akriti Bhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akriti.bhan1812@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akritibhan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AkritiBhan)![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akriti.bhan1812@gmail.com) 
 
 
 # 💻 Tech Stack:
